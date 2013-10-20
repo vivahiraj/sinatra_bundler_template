@@ -1,0 +1,12 @@
+blank template for sinatra with bundler
+
+#first
+bundle install
+
+#run develop web server
+bundle exec rackup
+
+#run rspec
+bundle exec rake spec
+ or
+bundle exec rspec
